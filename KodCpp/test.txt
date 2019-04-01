@@ -1,0 +1,43 @@
+void f1(){
+int a;
+char c;
+f2();
+double b;
+}
+
+int f2(int c){
+bool b=false;
+f3();
+}
+
+int f3(char a){
+int c=5;
+f1();
+}
+
+int f4(){
+int a;
+bool b;
+double h;
+f5();
+}
+
+int f5(){
+double f;
+string s;
+f4();
+}
+
+int suma(int a) {
+double x = 2;
+double y = 11;
+for(int i=0;i<10;i++){
+int gamma;
+}
+while (x<10){
+x++;
+}
+if (x > 10){
+bool b = false;
+}
+}

@@ -1,0 +1,58 @@
+Nazwa funkcji: suma
+Uzyte zmienne: 
+  -bool  b
+  -int  gamma
+  -double  y
+  -double  x
+  -int a
+
+Funkcja, nie byla uzyta w zadnej innej
+
+**************************
+Nazwa funkcji: f5
+Uzyte zmienne: 
+  -string  s
+  -double  f
+
+Funkcje, w ktorych uzyta:
+  -f4
+
+**************************
+Nazwa funkcji: f4
+Uzyte zmienne: 
+  -double  h
+  -bool  b
+  -int  a
+
+Funkcje, w ktorych uzyta:
+  -f5
+
+**************************
+Nazwa funkcji: f3
+Uzyte zmienne: 
+  -int  c
+  -char a
+
+Funkcje, w ktorych uzyta:
+  -f2
+
+**************************
+Nazwa funkcji: f2
+Uzyte zmienne: 
+  -bool  b
+  -int c
+
+Funkcje, w ktorych uzyta:
+  -f1
+
+**************************
+Nazwa funkcji: f1
+Uzyte zmienne: 
+  -double  b
+  -char  c
+  -int  a
+
+Funkcje, w ktorych uzyta:
+  -f3
+
+**************************
